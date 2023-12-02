@@ -1,6 +1,6 @@
 <img width="100" src="https://raw.githubusercontent.com/loeffel-io/ls-lint/master/assets/logo/ls-lint.png" alt="logo">
 
-# ls-lint
+# ls-lint 
 
 An extremely fast directory and filename linter - Bring some structure to your project filesystem
 

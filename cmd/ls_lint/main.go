@@ -94,7 +94,7 @@ func main() {
 		exitCode = 1
 	}
 
-	logger := log.New(writer, "", log.LstdFlags)
+	logger := log.New(writer, "", 0)
 
 	// with rule errors
 	for _, ruleErr := range lslintLinter.GetErrors() {
